@@ -34,6 +34,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 120px;
 }
 #gitimg,#circle{
     width: 100px;
@@ -46,5 +47,5 @@ footer{
     border-radius:50px;
     z-index: 1;
     width: 70px;
-    height: 88px;
+    height: 80px;
 }
